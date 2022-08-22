@@ -48,7 +48,6 @@ header {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  /* background-image: url("../src/assets/cover/5330558.jpg"); */
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -109,7 +108,6 @@ header nav ul li a:hover {
 
 
 .hero {
-  /* background-image: url("../src/assets/cover/5330558.jpg"); */
   background-size: cover;
   background-position: center;
   display: flex;
